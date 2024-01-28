@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓I’m currently learning BTech C.S.E from Sister Nivedita University.<br><br>👀I’m interested in Game Development.<br><br>✏️I’m currently preparing myself for HACKATHONS.<br><br>💻 I’m currently learning about Game Development.<br><br>😍I love startups.
+🎓Currently learning BTech C.S.E from Sister Nivedita University.<br><br>👀Interested in Game Development.<br><br>✏️Currently preparing myself for HACKATHONS.<br><br>💻 Currently learning about Game Development.<br><br>😍I love startups.
 
 
 ## 🌐 Socials:
