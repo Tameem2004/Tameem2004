@@ -32,8 +32,3 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tameem2004&theme=black-ice" alt="GitHub Streak Stats">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tameem2004&layout=donut-vertical&bg_color=000000)<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tameem2004&layout=donut-vertical&theme=black-ice" alt="Top Languages">
-
-
-
