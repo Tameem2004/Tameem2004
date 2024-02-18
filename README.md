@@ -6,7 +6,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/mdtameem.gazi.9?mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](http://www.instagram.com/mdtameemgazi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-tameem-gazi-26893a22a/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/tameem_gazi?t=nN73tKDfIGU-ZAy3KN9Dbw&s=09)
 
 # 💻 Tech Stack:
-<img src="https://www.netgen.co.za/wp-content/uploads/2022/03/C-image-for-Netgen.png" alt="c#" width="50" height="50"/> 
+<img src="[https://www.netgen.co.za/wp-content/uploads/2022/03/C-image-for-Netgen.png](https://dotnet.microsoft.com/en-us/languages/csharp)" alt="c#" width="50" height="50"/> 
 <img src="https://global-uploads.webflow.com/6047a9e35e5dc54ac86ddd90/63065002ce321b529d375e07_2e261bcd.png" alt="c++" width="50" height="50"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> 
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_logo_icon_146411.png" alt="nodejs" width="50" height="50"/> 
