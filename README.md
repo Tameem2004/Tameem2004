@@ -29,6 +29,6 @@
 [![An image of @tameem2004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tameem2004)](https://holopin.io/@tameem2004)
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Tameem2004&background=000000)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Tameem2004&theme=static)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tameem2004&layout=donut-vertical&bg_color=000000)<br/>
 
