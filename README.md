@@ -30,4 +30,6 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Tameem2004&theme=radical)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tameem2004&layout=donut-vertical&colour=black)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tameem2004&layout=donut-vertical&bg_color=000000)<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tameem2004&layout=compact&bg_color=000000" alt="Top Languages">
+
