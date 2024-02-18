@@ -7,7 +7,7 @@
 
 # 💻 Tech Stack:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="c" width="50" height="50"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" height="50"/> 
 [![C#](https://skills.thijs.gg/icons?i=c#&theme=light)](https://skills.thijs.gg)
 [![C++](https://skills.thijs.gg/icons?i=c++&theme=light)](https://skills.thijs.gg)
 [![C](https://skills.thijs.gg/icons?i=c&theme=light)](https://skills.thijs.gg)
