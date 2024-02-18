@@ -7,7 +7,7 @@
 
 # 💻 Tech Stack:
 <a href="https://dotnet.microsoft.com/en-us/languages/csharp">
-   ![]<img src="https://www.netgen.co.za/wp-content/uploads/2022/03/C-image-for-Netgen.png" alt="c#" width="50" height="50"/>
+   <img src="https://www.netgen.co.za/wp-content/uploads/2022/03/C-image-for-Netgen.png" alt="c#" width="50" height="50"/>
 </a>
 <a href="https://www.geeksforgeeks.org/c-plus-plus/">  
     <img src="https://global-uploads.webflow.com/6047a9e35e5dc54ac86ddd90/63065002ce321b529d375e07_2e261bcd.png" alt="c++" width="50" height="50"/> 
