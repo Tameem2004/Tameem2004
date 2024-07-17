@@ -1,3 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <div class="container">
+        <h1>Muhammad Tameem Gazi</h1>
+        <div class="contact-info">
+            <h2>Contact Information</h2>
+            <p>Email: <a href="mailto:mdtameem.gazi2004@gmail.com">mdtameem.gazi2004@gmail.com</a></p>
+            <p>Location: Kolkata, India</p>
+        </div>
+        <div class="education">
+            <h2>Education</h2>
+            <p>B.Tech, Computer Science & Engineering</p>
+            <p>Sister Nivedita University (2022 - 2026)</p>
+        </div>
+        <div class="skills">
+            <h2>Skills</h2>
+            <ul>
+                <li>C# (Intermediate)</li>
+                <li>Unity Engine (Intermediate)</li>
+                <li>C++ Programming (Intermediate)</li>
+                <li>C Programming (Advanced)</li>
+                <li>SQL (Intermediate)</li>
+                <li>Unity 3D (Beginner)</li>
+                <li>Git (Intermediate)</li>
+                <li>GitHub (Intermediate)</li>
+                <li>Node.js (Intermediate)</li>
+                <li>Express.js (Intermediate)</li>
+                <li>MongoDB (Beginner)</li>
+                <li>JavaScript (Intermediate)</li>
+                <li>Blockchain (Intermediate)</li>
+                <li>web3.js (Intermediate)</li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
+
 # 💫 About Me:
 <br>🎓Currently learning BTech C.S.E from Sister Nivedita University.<br><br>👀Interested in Game Development.<br><br>✏️Currently preparing myself for HACKATHONS.<br><br>💻 Currently learning about Game Development.<br><br>😍I love startups.<br>
 
