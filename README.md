@@ -71,11 +71,8 @@
 [![An image of @tameem2004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tameem2004)](https://holopin.io/@tameem2004)
 
 # 📊 GitHub Stats:
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tameem2004&theme=black-ice" alt="GitHub Streak Stats">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tameem2004&layout=donut-vertical&bg_color=000000)
-
 <div align=center>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tameem2004&theme=black-ice" alt="GitHub Streak Stats">
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tameem2004&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 <br/>
