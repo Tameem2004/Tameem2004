@@ -6,7 +6,6 @@
 </head>
 <body>
     <div class="container">
-        <h1>Muhammad Tameem Gazi</h1>
         <div class="contact-info">
             <h2>Contact Information</h2>
             <p>Email: <a href="mailto:mdtameem.gazi2004@gmail.com">mdtameem.gazi2004@gmail.com</a></p>
