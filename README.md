@@ -17,26 +17,6 @@
             <p>B.Tech, Computer Science & Engineering</p>
             <p>Sister Nivedita University (2022 - 2026)</p>
         </div>
-        <div class="skills">
-            <h2>Skills</h2>
-            <ul>
-                <li>C# (Intermediate)</li>
-                <li>Unity Engine (Intermediate)</li>
-                <li>C++ Programming (Intermediate)</li>
-                <li>C Programming (Advanced)</li>
-                <li>SQL (Intermediate)</li>
-                <li>Unity 3D (Beginner)</li>
-                <li>Git (Intermediate)</li>
-                <li>GitHub (Intermediate)</li>
-                <li>Node.js (Intermediate)</li>
-                <li>Express.js (Intermediate)</li>
-                <li>MongoDB (Beginner)</li>
-                <li>JavaScript (Intermediate)</li>
-                <li>Blockchain (Intermediate)</li>
-                <li>web3.js (Intermediate)</li>
-            </ul>
-        </div>
-    </div>
 </body>
 </html>
 
