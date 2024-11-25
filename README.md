@@ -67,9 +67,6 @@
     <img src="https://logodix.com/logo/696508.png" alt="unity" width="50" height="50"/> 
 </a>
 
-# 🐉 HOLOPIN:
-[![An image of @tameem2004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tameem2004)](https://holopin.io/@tameem2004)
-
 # 📊 GitHub Stats:
 <div align=center>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tameem2004&theme=black-ice" alt="GitHub Streak Stats">
