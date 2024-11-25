@@ -1,19 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-    <div class="container">
-        <div class="education">
-            <h2>Education</h2>
-            <p>B.Tech, Computer Science & Engineering</p>
-            <p>Sister Nivedita University (2022 - 2026)</p>
-        </div>
-</body>
-</html>
-
 # 💫 About Me:
 <br>🎓Currently learning BTech C.S.E from Sister Nivedita University.<br><br>👀Interested in Game Development.<br><br>✏️Currently preparing myself for HACKATHONS.<br><br>💻 Currently learning about Game Development.<br><br>😍I love startups.<br>
 
