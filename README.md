@@ -6,11 +6,6 @@
 </head>
 <body>
     <div class="container">
-        <div class="contact-info">
-            <h2>Contact Information</h2>
-            <p>Email: <a href="mailto:mdtameem.gazi2004@gmail.com">mdtameem.gazi2004@gmail.com</a></p>
-            <p>Location: Kolkata, India</p>
-        </div>
         <div class="education">
             <h2>Education</h2>
             <p>B.Tech, Computer Science & Engineering</p>
